@@ -3,7 +3,7 @@
 - 💞️ I’m also enthusiastic  about the developments in augumented reality
 - 📫 I love reading business books outside of work
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=looju?theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=looju)](https://git.io/streak-stats)
 
 <!---
 looju/looju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
