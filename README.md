@@ -5,7 +5,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=looju)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=looju)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 looju/looju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
