@@ -3,7 +3,6 @@
 - 💞️ I’m also enthusiastic  about the developments in augumented reality
 - 📫 I love reading business books outside of work
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=looju)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=looju&hide=issues,stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
