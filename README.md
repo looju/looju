@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi there i am Loju!;I have a strong passion for cross-platform mobile development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+i+am+Loju!;I+have+a+strong+passion+for+cross+platform+mobile+development)](https://git.io/typing-svg)
 
 Hi- 👋 Hi, I’m @loju
 - 👀 I’m a mobile developer
