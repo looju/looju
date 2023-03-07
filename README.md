@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi there i am loju;I'm a mobile developer👀; I;m enthusiastic about augument reality with mobile development)](https://git.io/typing-svg)
+
 Hi- 👋 Hi, I’m @loju
 - 👀 I’m a mobile developer
 - 💞️ I’m also enthusiastic  about the developments in augumented reality
