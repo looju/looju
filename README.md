@@ -8,6 +8,6 @@ Hi- 👋 Hi, I’m @loju
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=looju)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Life is )](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Life is a landscape. You need a JAVASCRIPT to navigate!)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideborder&theme=solarized-light)
