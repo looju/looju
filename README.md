@@ -9,4 +9,6 @@ Hi- 👋 Hi, I’m @loju
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=looju)](https://github.com/anuraghazra/github-readme-stats)
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideborder&theme=flag-india)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=while(!(suceed=try())))](https://github.com/piyushsuthar/github-readme-quotes)
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideborder&theme=solarized-light)
