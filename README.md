@@ -6,7 +6,7 @@ Hi- 👋 Hi, I’m @loju
 - 📫 I love reading business books outside of work
 
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="40" height="40" />
           
 
 <h3 align="left">Languages and Tools:</h3>
