@@ -1,7 +1,7 @@
 
 
 Hi- 👋 Hi, I’m @loju
-- 👀 I’m a mobile developer
+- 👀 I’m a mobile and desktop software developer
 - 💞️ I’m also enthusiastic  about the developments in augumented reality
 - 📫 I love reading business books outside of work
 
