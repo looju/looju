@@ -1,9 +1,9 @@
 
 
-Hi- 👋 Hi, I’m @loju
+👋 Hi, I’m @loju
 - 👀 I’m a mobile and desktop software developer
 - 💞️ I’m also enthusiastic  about the developments in augumented reality
-- 📫 I love reading business books outside of work
+- 📫 I love reading business books outside of work. In love with the book Startup Land by Mikkel Svane
 
 
 
