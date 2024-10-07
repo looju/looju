@@ -50,6 +50,6 @@
 
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=looju)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&quote=Life+is+a+landscape.You+need+a+javaSCRIPT+to+navigate&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&quote=Life+is+a+landscape.You+need+a+java'sSCRIPT+to+navigate&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideborder&theme=solarized-light)
