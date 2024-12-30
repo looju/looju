@@ -1,7 +1,7 @@
 
 
 👋 Hi, I’m Loju
-- 👀 I’m a mobile and desktop software developer
+- 👀 I’m a mobile, web and desktop software applications developer
 - 💞️ I’m also enthusiastic  about the developments in augumented reality
 - 📫 I love reading business books outside of work. In love with the book Startup Land by Mikkel Svane
 
@@ -47,9 +47,7 @@
                 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=looju)](https://github.com/anuraghazra/github-readme-stats)
-
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=looju)
-
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=looju)](https://github.com/LordDashMe/github-contribution-stats/)
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&quote=Life+is+a+landscape.You+need+a+java'sSCRIPT+to+navigate&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideborder&theme=solarized-light)
