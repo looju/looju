@@ -47,7 +47,4 @@
                 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=looju)](https://github.com/anuraghazra/github-readme-stats)
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=looju)](https://github.com/LordDashMe/github-contribution-stats/)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&quote=Life+is+a+landscape.You+need+a+java'sSCRIPT+to+navigate&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
-
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideborder&theme=solarized-light)
