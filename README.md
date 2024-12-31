@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **omofade2019@gmail.com**
 
-- ⚡ Fun fact **I really love the book called startup land by Mikel Shane**
+- ⚡ Fun fact **I really love the book called startup land by Mikkel Svane**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
