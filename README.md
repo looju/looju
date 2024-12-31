@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Loju</h1>
 <h3 align="center">AMA about mobile, web and electron applications development</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=looju" alt="looju" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://66dec63c90eba416a3bc69e6--radiant-concha-9297b0.netlify.app](https://66dec63c90eba416a3bc69e6--radiant-concha-9297b0.netlify.app)
 
