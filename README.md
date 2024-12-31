@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Loju</h1>
-<h3 align="center">AMA about mobile, web and electron applications development</h3>
+<h3 align="center">Ask Me Anything about Mobile, Web and Desktop applications development</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
