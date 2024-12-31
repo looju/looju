@@ -21,6 +21,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=looju&show_icons=true&locale=en&layout=compact" alt="looju" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=looju&show_icons=true&locale=en" alt="looju" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=looju&" alt="looju" /></p>
